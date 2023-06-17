@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagestart">
+        <file>background.jpg</file>
+        <file>button.jpg</file>
+        <file>start.jpg</file>
+    </qresource>
+</RCC>
