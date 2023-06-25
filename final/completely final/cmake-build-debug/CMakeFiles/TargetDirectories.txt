@@ -1,0 +1,3 @@
+F:/pishrafteh/final project/completely final/cmake-build-debug/CMakeFiles/completely_final.dir
+F:/pishrafteh/final project/completely final/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/pishrafteh/final project/completely final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
