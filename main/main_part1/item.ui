@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>item</class>
+ <widget class="QDialog" name="item">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>385</width>
+    <height>337</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/imagestart/pic/bcap6.jpg);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="2" column="0">
+    <widget class="QPushButton" name="additem">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>ADD Items</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QPushButton" name="remitem">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>REMOVE Items</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0">
+    <widget class="QPushButton" name="upitem">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>UPDATE Items</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QPushButton" name="report">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>REPORT</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QPushButton" name="seitem">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>SEARCH Item</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1">
+    <widget class="QPushButton" name="back">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/imagestart/pic/bcap5.jpg);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>back</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

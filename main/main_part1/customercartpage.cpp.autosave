@@ -1,0 +1,21 @@
+#include "customercartpage.h"
+#include "ui_customercartpage.h"
+
+customercartpage::customercartpage(QWidget *parent) :
+  QDialog(parent),
+  ui(new Ui::customercartpage)
+{
+  ui->setupUi(this);
+  ptrcartpage = new cartpage(this);
+}
+
+customercartpage::~customercartpage()
+{
+  delete ptrcartpage;
+  delete ui;
+}
+
+void customercartpage::on_pay_clicked()
+{
+    ptrcartpage->show();
+}

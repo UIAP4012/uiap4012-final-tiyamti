@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/imagestart">
+        <file>background.jpg</file>
+        <file>button.jpg</file>
+        <file>start.jpg</file>
+        <file>startseller3.jpg</file>
+        <file>startcustomer.jpg</file>
+        <file>startcustomer2.jpg</file>
+        <file>startseller.jpg</file>
+        <file>startseller2.jpg</file>
+        <file>1.jpg</file>
+        <file>12.jpg</file>
+        <file>2.jpg</file>
+        <file>pic/b1.jpg</file>
+        <file>pic/cl1.jpg</file>
+        <file>pic/cl2.jpg</file>
+        <file>pic/logs1.jpg</file>
+        <file>pic/ssn1.jpg</file>
+        <file>pic/ssn2.jpg</file>
+        <file>pic/fo.jpg</file>
+        <file>pic/bcap.jpg</file>
+        <file>pic/bcap2.jpg</file>
+        <file>pic/bcap3.jpg</file>
+        <file>pic/bcap4.jpg</file>
+        <file>pic/bcap5.jpg</file>
+        <file>pic/bcap6.jpg</file>
+        <file>pic/bcap7.jpg</file>
+        <file>pic/bcap8.jpg</file>
+        <file>pic/bcap9.jpg</file>
+        <file>pic/bcap10.jpg</file>
+        <file>pic/bcap11.jpg</file>
+    </qresource>
+</RCC>

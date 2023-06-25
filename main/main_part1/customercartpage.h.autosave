@@ -1,0 +1,26 @@
+#ifndef CUSTOMERCARTPAGE_H
+#define CUSTOMERCARTPAGE_H
+
+#include <QDialog>
+#include "cartpage.h"
+namespace Ui {
+  class customercartpage;
+}
+
+class customercartpage : public QDialog
+{
+  Q_OBJECT
+
+public:
+  explicit customercartpage(QWidget *parent = 0);
+  ~customercartpage();
+
+private slots:
+  void on_pay_clicked();
+  
+private:
+  Ui::customercartpage *ui;
+  cartpage *ptrcartpage;
+}
+
+#endif // CUSTOMERCARTPAGE_H
